@@ -1,4 +1,3 @@
-aaabb
 #include "Aircraft.h"
 #include <iostream>
 #include <fstream>
